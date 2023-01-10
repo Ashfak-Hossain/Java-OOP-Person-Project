@@ -12,6 +12,8 @@ public class Main {
         person1.setWeight(78);
         person1.print(true);
         System.out.println(person1.getHeight());
+        System.out.println(person1.getWeight());
+
 
         //person 2
 
